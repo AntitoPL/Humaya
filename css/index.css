@@ -1,0 +1,54 @@
+/* Clases de HEADER*/
+.fondoDeHeader {
+    background-image: url("IMAGENES/Central/imagenCentral.png");
+    background-position: auto;
+    background-size: cover;
+    width: 960px;
+    height: 400px;
+}
+
+.colorTituloLogo {
+    color: #FFFAF4 !important;
+}
+
+.fondoTransparente {
+    background-color: transparent !important;
+    border: none;
+}
+
+/* Clases de BODY*/
+body {
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    background: linear-gradient(to right, #434343, #000000);
+}
+
+/* Clases de PRODUCTOS*/
+.colorTituloCard {
+    color: #D5AC8C !important;
+}
+
+.fondoCardProductos {
+    background-color: #000000 !important;
+    border: none;
+}
+
+.bordeBotonCardProductos {
+    color: #D5AC8C !important;
+    border-color: #D5AC8C !important;
+
+}
+
+.fondoCardProductosAlfajor {
+    background-color: #D5AC8C !important;
+    border: none;
+}
+
+.colorTituloCardAlfajor {
+    color: #63421E !important;
+}
+
+.bordeBotonCardProductosAlfajor {
+    color: #63421E !important;
+    border-color: #63421E !important;
+}
